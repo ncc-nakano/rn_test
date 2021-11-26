@@ -20,5 +20,9 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "description": "test",
+  "repository": "https://github.com/ncc-nakano/rn_test",
+  "author": "ncc-nakano <93506589+ncc-nakano@users.noreply.github.com>",
+  "license": "MIT"
 }
